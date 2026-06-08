@@ -5,3 +5,6 @@ __pycache__/
 .DS_Store
 .streamlit/
 *.log
+# ChromaDB local data
+chroma_db/
+*.sqlite3

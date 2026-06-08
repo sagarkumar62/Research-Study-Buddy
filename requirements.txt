@@ -4,3 +4,4 @@ numpy
 pandas
 chromadb
 sentence-transformers
+langchain-text-splitters

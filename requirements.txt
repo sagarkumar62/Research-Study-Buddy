@@ -9,3 +9,5 @@ sentence-transformers==2.7.0
 langchain-text-splitters==0.2.2
 
 protobuf==4.25.3
+
+google-genai

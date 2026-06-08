@@ -1,1 +1,6 @@
+streamlit
 pypdf==5.1.0
+numpy
+pandas
+chromadb
+sentence-transformers

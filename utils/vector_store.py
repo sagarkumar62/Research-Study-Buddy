@@ -18,7 +18,7 @@ def store_chunks(chunks, embeddings):
         for _ in chunks
     ]
 
-    collection.upsert(
+    collection.add(
         ids=ids,
         documents=chunks,
         embeddings=embeddings,
